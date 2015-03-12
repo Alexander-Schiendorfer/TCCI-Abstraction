@@ -14,7 +14,7 @@ However, with our efforts we hope to make it easier to validate and
 communicate our approach. 
 
 ==================================
-= CAVEAT CPLEX
+= CAVEAT CPLEX =
 
 As our approach highly depends on 
 a working IBM ILOG CPLEX installation
